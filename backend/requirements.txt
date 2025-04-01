@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+tensorflow
+scikit-learn
+python-chess
+pandas
+numpy
+joblib
+python-chess
+tqdm

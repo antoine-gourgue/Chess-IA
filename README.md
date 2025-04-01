@@ -1,1 +1,1 @@
-# Chess-IA
+# Chess IA Project
