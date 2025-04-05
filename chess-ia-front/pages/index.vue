@@ -12,13 +12,13 @@
           to="/chess-ia-vs-ia"
           class="bg-black text-white px-6 py-3 rounded-full text-sm hover:bg-gray-800 transition"
       >
-        🎯 IA vs IA
+         IA vs IA
       </NuxtLink>
       <NuxtLink
           to="/chess-player-vs-ia"
           class="border border-black text-black px-6 py-3 rounded-full text-sm hover:bg-gray-100 transition"
       >
-        🧠 Joueur vs IA
+         Joueur vs IA
       </NuxtLink>
     </div>
   </main>
